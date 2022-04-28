@@ -5,7 +5,8 @@
     <p align="center">Project Example by Teaching Assistant, Mitchell Foo</p>
 </p>
 
-This is an example project in the FCD S22 repo. It is meant to demonstrate the correct format and content expected for uploading materials. This area is used to reiterate the project description from my M6 submission. I could also describe the M6 prompt.
+In this project, we explore the possibility of responsive architecture. By incorporating solar radiation simulation into the process, we sought to maximize the building performance in terms of thermal comfort and control of glaze. 
+The pavilion is located on the CFA lawn at CMU. This strcuture aims to create a public space for CMU students, especially CFA students, to take a rest and enjoy nature in good weather. The basic form is generated based on an analysis of the sun path. The pavilion is extended on the south side to prevent intensive direct sunlight from the south and enhance thermal performance. The top of the north side of the pavilion is pushed in to create more space for lights from the north, and invite students from all around campus. Furthermore, we used environment simulation tools to generate the solar radiation data of the structure. Panels on the top of the structure provide shading to the space and generate playful lighting conditions. Parametric control of the panel opening is formed by organizing and analyzing the solar radiation data. Two panels in one unit module create a reflection of the sunlight instead of receiving intensive direct sunlight.
 
 **Contents**
 
